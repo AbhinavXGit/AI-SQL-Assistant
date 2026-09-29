@@ -1,0 +1,12 @@
+Try these questions:
+
+1. Show total sales
+2. What is the total revenue?
+3. Show the top 5 products
+4. Which products sold the most?
+5. Show top customers
+6. Which customers spent the most?
+7. How many orders are there?
+8. Number of orders
+9. Show sales by month
+10. Monthly revenue
